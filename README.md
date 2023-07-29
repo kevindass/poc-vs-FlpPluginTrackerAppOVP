@@ -12,8 +12,7 @@ A detailed background has been mentioned in [SAP Blog](https://blogs.sap.com/?p=
 ## Target Audience 
 This document is for whom has the experience of SAPUI5 along with ABAP OData service development
 
-## Implementation Steps
-### Database tables
+## Preview
 ![ApplicationOverviewPage diagram](images/ovpPreview.JPG)
 ## Implementation Steps
 
